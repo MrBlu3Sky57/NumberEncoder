@@ -1,0 +1,6 @@
+Create a text file titled Names.txt. 
+Write out the names of five individuals with their 
+first name and last name. Your task is to figure 
+out a way to read in the file and output the names with 
+The last name first, then a comma, then their 
+first name. See the example:
